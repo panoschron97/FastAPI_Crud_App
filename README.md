@@ -62,6 +62,6 @@ To set up the project locally, follow these steps:
 
 ## Dependencies
 
--   **FastAPI:** A modern, fast (high-performance), web framework for building APIs with Python.
+-   **FastAPI:** A modern, fast (high-performance) web framework for building APIs with Python.
 -   **Uvicorn:** An ASGI (Asynchronous Server Gateway Interface) server for running FastAPI applications.
 -   **Pydantic:** A data validation and settings management library.
