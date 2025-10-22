@@ -1,4 +1,4 @@
-# FastAPI CRUD App with LLM Context
+# FastAPI crud app
 
 This repository showcases a basic CRUD (Create, Read, Update, Delete) application built using FastAPI designed for managing employee information. It provides a foundation for building more complex APIs and demonstrates core FastAPI functionalities.
 
